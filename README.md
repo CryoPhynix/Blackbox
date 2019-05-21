@@ -3,7 +3,7 @@
 # Rocket
 
 ```
-By Kirk Perkins
+By Kirk Perkins, Walter Guevara
 ```
 
 ## What is a flight recorder?
