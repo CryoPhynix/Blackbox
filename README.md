@@ -3,7 +3,8 @@
 # Rocket
 
 ```
-By Kirk Perkins, Walter Guevara
+By Kirk Perkins and Walter Guevara
+Designed for Physics and Electronics Class
 ```
 
 ## What is a flight recorder?
